@@ -1,0 +1,13 @@
+# Alte Version & sensible Daten – nicht ins Repository
+old-version/
+.ftpconfig
+*.doc
+brief.md
+
+# Claude Code – lokale Konfiguration
+.claude/
+
+# System
+Thumbs.db
+.DS_Store
+desktop.ini
